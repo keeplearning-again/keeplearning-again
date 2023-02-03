@@ -1,6 +1,6 @@
 <!-- GitHub 数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=keeplearning-again&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=keeplearning-again&hide_title=true&show_icons=trueline_height=30&text_color=000&icon_color=000&theme=graywhite" />
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=keeplearning-again&layout=compact&langs_count=4&text_color=000&icon_color=fff&theme=graywhite" />
 </div> 
 
